@@ -1,0 +1,22 @@
+{"RequestType":"PUT","RequestBody": {"Key": "aaaa","Value": "bbbb"}}
+
+{"RequestType":"PUT"}
+
+{
+    "RequestType":"PUT", 
+    "RequestBody": {
+        "Key": "aaaa",
+        "Value": "bbbb"
+    }
+}
+
+
+
+{"RequestType":"GET", "RequestBody": {"Key": "aaaa"}}
+
+{
+    "RequestType":"GET", 
+    "RequestBody": {
+        "Key": "aaaa"
+    }
+}
